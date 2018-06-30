@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeMRTK", "Assembly-CSharp.csproj", "{F52D61A5-A991-D140-9A9C-19ED7B23410D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeMRTK", "Assembly-CSharp-Editor.csproj", "{6AEE0A40-35A4-4D24-9C5F-08B4F88FC553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52D61A5-A991-D140-9A9C-19ED7B23410D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52D61A5-A991-D140-9A9C-19ED7B23410D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52D61A5-A991-D140-9A9C-19ED7B23410D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52D61A5-A991-D140-9A9C-19ED7B23410D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEE0A40-35A4-4D24-9C5F-08B4F88FC553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEE0A40-35A4-4D24-9C5F-08B4F88FC553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEE0A40-35A4-4D24-9C5F-08B4F88FC553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEE0A40-35A4-4D24-9C5F-08B4F88FC553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
