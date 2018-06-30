@@ -138,6 +138,9 @@
  <Reference Include="NetMQ">
  <HintPath>/Users/Shared/Unity/EyeMRTK/EyeMRTK/Assets/Pupil/Plugins/x86_64/NetMQ.dll</HintPath>
  </Reference>
+ <Reference Include="Tobii.Research.Mono">
+ <HintPath>/Users/Shared/Unity/EyeMRTK/EyeMRTK/Assets/TobiiPro/Plugins/Tobii.Research.Mono.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Users/Diako/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
