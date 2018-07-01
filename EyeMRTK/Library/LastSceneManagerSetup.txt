@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/EyeMRTK/scenes/EyeMRTK.unity
-  isLoaded: 1
-  isActive: 1
