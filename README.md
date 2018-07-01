@@ -23,8 +23,3 @@ Get started: The basis of the first version of EyeMRTK was made as part of the m
 ### TODO: Guide.html
 
 
-## Contributors
-* **Diako Mardanbegi** 
-<dmardanbeigi at gmail dot com>
-http://www.dmardanbegi.com
-
